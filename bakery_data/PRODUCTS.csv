@@ -1,0 +1,13 @@
+product_id, product_name, category, cost_per_unit, selling_price, shelf_life_hours, daily_capacity
+P001, Chocolate Croissant, Pastries, 1.50, 5.00, 24, 40
+P002, Sourdough Loaf, Bread, 2.80, 8.50, 48, 25
+P003, Blueberry Muffin, Pastries, 1.20, 4.00, 24, 50
+P004, Cinnamon Roll, Pastries, 1.80, 5.50, 24, 35
+P005, Baguette, Bread, 1.50, 4.50, 24, 30
+P006, Red Velvet Cake Slice, Cakes, 3.00, 9.00, 48, 20
+P007, Cheesecake Slice, Cakes, 3.50, 10.00, 72, 15
+P008, Banana Bread Loaf, Bread, 2.00, 7.00, 48, 20
+P009, Almond Danish, Pastries, 1.60, 5.00, 24, 30
+P010, Chocolate Fudge Brownie, Desserts, 1.00, 3.50, 72, 60
+P011, Vanilla Cupcake, Cakes, 1.20, 4.50, 48, 45
+P012, Whole Wheat Loaf, Bread, 2.50, 7.50, 48, 20

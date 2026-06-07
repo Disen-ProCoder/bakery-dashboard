@@ -1,0 +1,16 @@
+customer_id, customer_name, email, phone, city, signup_date, customer_source
+C001, Ayesha Perera, ayesha@email.com, 0771234567, Colombo, 2024-05-01, Instagram
+C002, Ravi Kumar, ravi@email.com, 0779876543, Colombo, 2024-05-15, Facebook
+C003, Nimal Silva, nimal@email.com, 0712345678, Colombo, 2024-05-20, Walk-in
+C004, Priya Jayawardena, priya@email.com, 0763456789, Kandy, 2024-06-01, Instagram
+C005, Kasun Fernando, kasun@email.com, 0754567890, Colombo, 2024-06-10, Referral
+C006, Dilanka Rathnayake, dilanka@email.com, 0777654321, Gampaha, 2024-06-15, Facebook
+C007, Sanduni Wickramasinghe, sanduni@email.com, 0712233445, Colombo, 2024-06-20, Instagram
+C008, Tharaka Bandara, tharaka@email.com, 0769988776, Kandy, 2024-07-01, Walk-in
+C009, Malika Dissanayake, malika@email.com, 0775544332, Colombo, 2024-07-10, Referral
+C010, Isuru Perera, isuru@email.com, 0781122334, Colombo, 2024-07-15, Google
+C011, Chamari Seneviratne, chamari@email.com, 0761122334, Negombo, 2024-07-20, Instagram
+C012, Rohan Gunawardena, rohan@email.com, 0712233667, Colombo, 2024-08-01, Facebook
+C013, Nethmi Jayasuriya, nethmi@email.com, 0774455667, Colombo, 2024-08-10, Walk-in
+C014, Dasun Madushanka, dasun@email.com, 0763344556, Gampaha, 2024-08-15, Referral
+C015, Hiruni Senanayake, hiruni@email.com, 0779988001, Colombo, 2024-09-01, Instagram
